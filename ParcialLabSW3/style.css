@@ -1,0 +1,72 @@
+/*Autores:Luisa María Gómez Galindez
+          Jhon Dennis Caicedo Díaz
+          Eduardo Nicolás Pérez Paredes*/
+*
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Times New Roman','Trebuchet MS', sans-serif;
+}
+        
+body
+{
+    background-image: url("img/fiet.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-color: #ffffff;
+    font-size: 60px;
+    color: #ffffff; 
+}
+
+.dependencia
+{
+    font-size: 35px;
+    position:absolute;
+    left: 910px;
+    top: 70px;
+}
+
+.consecutivo
+{
+    font-size: 35px;
+    color: #ffffff;
+    position:absolute;
+    left: 1340px;
+    top: 65px;
+    width: 130px;
+}
+
+body h1
+{
+    font-size: 35px;
+    position:absolute;
+    left: 110px;
+    top: 70px;
+}
+
+body h2
+{
+    font-size: 25px;
+    position:absolute;
+    left: 450px;
+    top: 430px;
+    text-align: justify;
+}
+
+.formulario
+{
+    position:absolute;
+    left: 20px;
+    top: 200px;
+}
+
+.formulario1
+{
+    position:absolute;
+    left: 230px;
+    top: 200px;
+}
+.formulario2
+{
+    position:absolute;
+    left: 460px;
+    top: 200px;
+}
